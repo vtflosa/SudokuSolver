@@ -4,8 +4,10 @@
 
 This is a very simple Sudoku Solver for linux and windows
 
+# Windows install
+Install setup_SudokuSolver.exe and launched it
 
-# Linux usage
+# Linux install
 
    1. Install tkinter on your computer - open terminal and write :
 
@@ -17,7 +19,9 @@ https://github.com/vtflosa/SudokuSolver/tree/main/SudokuSolver
 
 ```python3 SudokuSolver.py```
 
-   4. Complete the grid with the values and click on 'Solution'
+# Usage :
+   Complete the grid with the values and click on 'Solution'
+   
 ![](https://github.com/vtflosa/SudokuSolver/blob/main/Images/Empty_grid.png?raw=true)
 ![](https://github.com/vtflosa/SudokuSolver/blob/main/Images/Filled_grid.png?raw=true)
 ![](https://github.com/vtflosa/SudokuSolver/blob/main/Images/solved_grid.png?raw=true)

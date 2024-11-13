@@ -18,4 +18,6 @@ https://github.com/vtflosa/SudokuSolver/tree/main/SudokuSolver
 ```python3 SudokuSolver.py```
 
    4. Complete the grid with the values and click on 'Solution'
-
+![](https://github.com/vtflosa/SudokuSolver/blob/main/Images/Empty_grid.png?raw=true)
+![](https://github.com/vtflosa/SudokuSolver/blob/main/Images/Filled_grid.png?raw=true)
+![](https://github.com/vtflosa/SudokuSolver/blob/main/Images/solved_grid.png?raw=true)

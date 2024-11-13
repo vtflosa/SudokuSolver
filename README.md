@@ -8,4 +8,4 @@ This is a very simple Sudoku Solver for linux and windows
 # Linux usage
 
 1. Install tkinter on your computer
-   '''sudo apt install python3-tk'''
+   ```sudo apt install python3-tk```

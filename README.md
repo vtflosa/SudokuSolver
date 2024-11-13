@@ -1,4 +1,4 @@
-!logo(https://github.com/vtflosa/SudokuSolver/blob/main/SudokuSolver/SudokuSolver.png?raw=true)
+![](https://github.com/vtflosa/SudokuSolver/blob/main/SudokuSolver/SudokuSolver.png?raw=true)
 
 # SudokuSolver
 

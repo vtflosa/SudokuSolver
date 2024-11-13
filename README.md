@@ -12,6 +12,7 @@ Install setup_SudokuSolver.exe and launched it
    1. Install tkinter on your computer - open terminal and write :
 
 ```sudo apt install python3-tk```
+
    2. Download SudokuSolver folder
 https://github.com/vtflosa/SudokuSolver/tree/main/SudokuSolver
 
